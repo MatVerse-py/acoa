@@ -33,3 +33,7 @@
 * **Antifragile Quantum-Semantic Systems via CVaR-POVM & Riemannian Memory Manifolds** — 2025-12-17 | preprint — DOI: 10.22541/au.176599457.78410478/v1 — Contribuidor: Mateus Areas
 * **The General Theory of Hamiltonian Digital Life (GTHDL): Mathematical Foundations, Topological Structures, and the Emergence of Co-Sovereignty in Computational Systems** — 2025-12-08 | preprint — DOI: 10.22541/au.176523668.82838950/v1 — Contribuidor: Mateus Areas
 * **O ORGANISMO — A Consciência Distribuída** — 2025-12-02 | preprint — DOI: 10.22541/au.176463806.67728089/v1 — Contribuidor: Mateus Areas
+
+## Workflow QRCH (pendente)
+
+Para aplicar um patch cirúrgico que substitua o export inválido por `.env` + `env_load.sh`, é necessário o step do workflow do QRCH que cria/usa o `/tmp/*-env`.
