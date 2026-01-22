@@ -1,0 +1,10 @@
+[project]
+name = "acoa"
+version = "0.1.0"
+description = "ACOA foundation core primitives"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
